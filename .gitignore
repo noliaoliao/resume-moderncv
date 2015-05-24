@@ -1,0 +1,4 @@
+examples/*.log
+examples/*.out
+examples/*.aux
+examples/*.gz
